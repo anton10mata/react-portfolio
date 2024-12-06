@@ -24,11 +24,9 @@ Welcome to my React Portfolio! This application showcases my skills as a web dev
 2. Navigate to the project directory:
     cd react-portfolio
 3. Install the dependencies:
-    ```bash
-npm install
+    ```bash npm install
 4. Run the development server:
-    ```bash
-npm run dev
+    ```bash npm run dev
 5. Open your browser and navigate to http://localhost:5173.
 
 ## Usage
@@ -51,7 +49,7 @@ npm run dev
 - GitHub Pages: For deployment.
 
 ## Deployed Application
-Check out the live application here: React Portfolio
+Check out the live application here: [React Portfolio] (https://anton10mata.github.io/react-portfolio/)
 
 ## License
 This project is licensed under the MIT License.

@@ -50,15 +50,6 @@ npm run dev
 - CSS: For styling the components.
 - GitHub Pages: For deployment.
 
-## Screenshots
-Home Section (About Me)
-
-Portfolio Section
-
-Contact Section
-
-Resume Section
-
 ## Deployed Application
 Check out the live application here: React Portfolio
 
